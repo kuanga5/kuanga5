@@ -1,7 +1,7 @@
-Repository for all my small projects.
+Repository for all my small projects.\
 
-**Recommended Free Electronic Textbooks**
-[Erickson, Jeff. *Algorithms*.](https://jeffe.cs.illinois.edu/teaching/algorithms/)
+**Recommended Free Electronic Textbooks**\
+[Erickson, Jeff. *Algorithms*.](https://jeffe.cs.illinois.edu/teaching/algorithms/)\
 [Harchol-Balter, Mor. *Introduction to Probability for Computing*](https://www.cs.cmu.edu/~harchol/Probability/book.html)
 
 <!--
