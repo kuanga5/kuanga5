@@ -24,8 +24,8 @@ The best way to contact me is through the email listed on my personal website.
 **Favorite Algorithms:**
 - Valiant's Parallel Merge Algorithm
 - Fast Inverse Square Root
-- Held--Karp Algorithm
-- Huffman Coding
+- Held-Karp Algorithm
+- Grover's Algorithm
 - Peeksort
 - Manacher's Algorithm
 
