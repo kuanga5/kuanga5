@@ -1,4 +1,4 @@
-Repository for all my small projects. PhD applicant.
+Repository for all my small projects. PhD applicant.\
 The best way to contact me is through the email listed on my personal website.
 
 **Graduate of UC Irvine (B.S. in Computer Science, 2026)**
