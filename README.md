@@ -1,5 +1,6 @@
 Repository for all my small projects. PhD applicant.\
-The best way to contact me is through the email listed on my personal website.
+The best way to contact me is through the email listed on my personal website.\
+I typically follow people I know or have interacted with (Linus Torvalds is an obvious exception to this guideline).
 
 **Graduate of UC Irvine (B.S. in Computer Science, 2026)**
 - Learning Assistant for Data Structures (ICS 46) and Algorithms (CS 161)
