@@ -39,6 +39,7 @@ I typically follow people I know or have interacted with (Linus Torvalds is an o
 **Recommended Free Electronic Textbooks**\
 [Erickson, Jeff. *Algorithms*.](https://jeffe.cs.illinois.edu/teaching/algorithms/)\
 [Harchol-Balter, Mor. *Introduction to Probability for Computing*](https://www.cs.cmu.edu/~harchol/Probability/book.html)
+[Kochenderfer, Mykel J. and Wheeler, Tim A. *Algorithms for Optimization*](https://algorithmsbook.com/optimization/)
 
 <!--
 **kuanga5/kuanga5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
