@@ -6,6 +6,8 @@ I typically follow people I know or have interacted with (Linus Torvalds is an o
 - Learning Assistant for Data Structures (ICS 46) and Algorithms (CS 161)
 - Undertaking research with Prof. Michael Shindler regarding help-seeking in algorithms courses
 - Member of Campuswide Honors Collegium (CHC) and ICS Honors
+- Thesis: Help-Seeking Behavior in Algorithms Courses
+- Advisor: Michael Shindler
 
 **Research Interests**
 - Computer Science Theory Education
