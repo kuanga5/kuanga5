@@ -38,7 +38,7 @@ I typically follow people I know or have interacted with (Linus Torvalds is an o
 - Zip Tree
 
 
-**Recommended Free Electronic Textbooks**\
+**Recommended Free Electronic Textbooks (for personal use)**\
 [Erickson, Jeff. *Algorithms*.](https://jeffe.cs.illinois.edu/teaching/algorithms/)\
 [Harchol-Balter, Mor. *Introduction to Probability for Computing*](https://www.cs.cmu.edu/~harchol/Probability/book.html)\
 [Kochenderfer, Mykel J. and Tim A. Wheeler. *Algorithms for Optimization*](https://algorithmsbook.com/optimization/)\
