@@ -14,6 +14,10 @@ I typically follow people I know or have interacted with (Linus Torvalds is an o
   - Pedagogy of Algorithm Design and Analysis
   - Psychological Factors (Sense of Belonging, Imposter Syndrome)
   - Adapting in an era of Generative AI
+- Human--AI Interaction
+  - Understanding how students, creatives, and researchers perceive (or even integrate) Generative AI into their work
+  - Ethical issues regarding AI use
+  - Cognitive offloading
 - Algorithm Design and Analysis
   - Parallel, Quantum, and Randomized Algorithm Design
   - Experimental Analysis
